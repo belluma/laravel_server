@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/backgammon/static/css/main.e2fa535b.chunk.css",
+    "main.js": "/backgammon/static/js/main.a1dc8780.chunk.js",
+    "main.js.map": "/backgammon/static/js/main.a1dc8780.chunk.js.map",
+    "runtime-main.js": "/backgammon/static/js/runtime-main.0bc5f2c3.js",
+    "runtime-main.js.map": "/backgammon/static/js/runtime-main.0bc5f2c3.js.map",
+    "static/js/2.91572a93.chunk.js": "/backgammon/static/js/2.91572a93.chunk.js",
+    "static/js/2.91572a93.chunk.js.map": "/backgammon/static/js/2.91572a93.chunk.js.map",
+    "static/js/3.8f6d987b.chunk.js": "/backgammon/static/js/3.8f6d987b.chunk.js",
+    "static/js/3.8f6d987b.chunk.js.map": "/backgammon/static/js/3.8f6d987b.chunk.js.map",
+    "index.html": "/backgammon/index.html",
+    "static/css/main.e2fa535b.chunk.css.map": "/backgammon/static/css/main.e2fa535b.chunk.css.map",
+    "static/js/2.91572a93.chunk.js.LICENSE.txt": "/backgammon/static/js/2.91572a93.chunk.js.LICENSE.txt",
+    "static/media/dado-1.44c20c24.svg": "/backgammon/static/media/dado-1.44c20c24.svg",
+    "static/media/dado-2.ed346677.svg": "/backgammon/static/media/dado-2.ed346677.svg",
+    "static/media/dado-3.a2405b12.svg": "/backgammon/static/media/dado-3.a2405b12.svg",
+    "static/media/dado-4.1b71e7b1.svg": "/backgammon/static/media/dado-4.1b71e7b1.svg",
+    "static/media/dado-5.4bb6191d.svg": "/backgammon/static/media/dado-5.4bb6191d.svg",
+    "static/media/dado-6.d5824cf7.svg": "/backgammon/static/media/dado-6.d5824cf7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc5f2c3.js",
+    "static/js/2.91572a93.chunk.js",
+    "static/css/main.e2fa535b.chunk.css",
+    "static/js/main.a1dc8780.chunk.js"
+  ]
+}
